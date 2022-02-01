@@ -1,4 +1,4 @@
-### [http://willmcpherson2.com](willmcpherson2.com)
+### [willmcpherson2.com](http://willmcpherson2.com)
 
 **Projects**: My own programming language called [lamb](https://github.com/willmcpherson2/lamb), among other various projects
 
