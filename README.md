@@ -1,13 +1,17 @@
-### [willmcpherson2.com](http://willmcpherson2.com)
+## [willmcpherson2.com](http://willmcpherson2.com)
 
-**Projects**: My own programming language called [lamb](https://github.com/willmcpherson2/lamb), among other various projects
+If you would to like to hire me, or just talk, feel free to email me at [willmcpherson2@gmail.com](mailto:willmcpherson2@gmail.com).
 
-**Interests**: Languages, compilers, audio, systems programming, functional programming
+### Projects
 
-**Languages**: Rust, Haskell, C, C++
+I have a blog at [willmcpherson2.com](http://willmcpherson2.com). The source code can be found [here](https://github.com/willmcpherson2/blog)
 
-**Qualification**: Bachelor of Computer Science from RMIT
+My current project is called [Tulip](https://github.com/willmcpherson2/tulip). It's a tiny Lisp.
 
-**Job**: Part-time at RMIT's AI Innovation Lab
+The parser for Tulip uses my own parsing library called [Parss](https://github.com/willmcpherson2/parss).
 
-If you would to like to hire me, or just talk, please feel free to email me at [willmcpherson2@gmail.com](mailto:willmcpherson2@gmail.com).
+All three projects are written in Haskell :-)
+
+### Job
+
+I currently work at RMIT's AI Innovation Lab.
