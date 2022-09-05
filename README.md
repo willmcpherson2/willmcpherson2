@@ -14,6 +14,4 @@ All three projects are written in Haskell :-)
 
 ### Job
 
-I previously worked at RMIT's AI Innovation Lab.
-
-Currently, I am looking for work!
+I work at RMIT's AI Innovation Lab.
