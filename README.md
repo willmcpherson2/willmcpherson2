@@ -1,4 +1,4 @@
-If you would to like to hire me, or just talk, feel free to email me at [willmcpherson2@gmail.com](mailto:willmcpherson2@gmail.com)
+If you would to like to hire me, or just talk, email me at [willmcpherson2@gmail.com](mailto:willmcpherson2@gmail.com)
 
 ### Projects
 
@@ -8,4 +8,4 @@ If you would to like to hire me, or just talk, feel free to email me at [willmcp
 
 - Tulip uses [Parss](https://github.com/willmcpherson2/parss), a parser combinator library tailored for [multi-pass, infallible and pure parsing](https://github.com/willmcpherson2/tulip/commit/14a2ae8a5fcfc1a6ed8ddad5bc8e21c23a94ab20).
 
-All three projects are written in Haskell :-)
+- My NixOS config, along with all my dotfiles, can be found [here](https://github.com/willmcpherson2/willos).
