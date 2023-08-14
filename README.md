@@ -1,11 +1,11 @@
-If you would to like to hire me, or just talk, feel free to email me at [willmcpherson2@gmail.com](mailto:willmcpherson2@gmail.com)
+If you would to like to hire me, or just talk, reach me at [willmcpherson2@gmail.com](mailto:willmcpherson2@gmail.com)
 
 ### Projects
 
-- I have a blog at [willmcpherson2.com](http://willmcpherson2.com). The source code can be found [here](https://github.com/willmcpherson2/willmcpherson2.com).
+- [willmcpherson2.com](http://willmcpherson2.com) is my personal website. [Source code](https://github.com/willmcpherson2/willmcpherson2.com)
 
-- I wrote a toy language called [Tulip](https://github.com/willmcpherson2/tulip). It's a tiny, untyped, lazy, interpreted, pure programming language.
+- [dotfiles](https://github.com/willmcpherson2/willos)
 
-- Tulip uses [Parss](https://github.com/willmcpherson2/parss), a parser combinator library tailored for [multi-pass, infallible and pure parsing](https://github.com/willmcpherson2/tulip/commit/14a2ae8a5fcfc1a6ed8ddad5bc8e21c23a94ab20).
+- [letscape](http://letscape.willmcpherson2.com) is a visual functional programming environment. [Source code](https://github.com/willmcpherson2/letscape)
 
-- My NixOS config, along with all my dotfiles, can be found [here](https://github.com/willmcpherson2/willos).
+- [parss](https://github.com/willmcpherson2/parss) is a parser combinator library for Haskell. [Two Hand](https://github.com/willmcpherson2/two-hand) is a [langjam #4](https://github.com/langjam/jam0004) entry that uses parss.
