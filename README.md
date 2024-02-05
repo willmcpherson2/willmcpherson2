@@ -1,4 +1,4 @@
-If you would to like to hire me, or just talk, reach me at [willmcpherson2@gmail.com](mailto:willmcpherson2@gmail.com)
+Reach me at [willmcpherson2@gmail.com](mailto:willmcpherson2@gmail.com)
 
 ### Projects
 
