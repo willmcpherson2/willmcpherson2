@@ -2,4 +2,4 @@
 
 [willmcpherson2@gmail.com](mailto:willmcpherson2@gmail.com)
 
-Currently working at [Outfit](https://github.com/Outfitio)/[Smartsheet](https://github.com/smartsheet)
+Currently working at [Smartsheet](https://github.com/smartsheet)
